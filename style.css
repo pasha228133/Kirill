@@ -1,0 +1,39 @@
+body{
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
+h3{
+    font-family: 'Oswald';
+}
+.popa{
+    margin: 20px;
+    width: 300px;
+}
+.popa2{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    font-size: 50px;
+    color: red;
+}
+.kek{
+    padding: 20px 0;
+    border-right: 2px solid red;
+}
+.lil{
+    padding: 20px 0;
+    border-right: 2px solid red;
+}
+.lol{
+    padding: 20px 0;
+    border-right: 2px solid red;
+}
+.lel{
+    padding: 20px 0;
+}
+h1{
+    letter-spacing: 10px;
+    color: rgb(62, 62, 163);
+    font-size: 50px;
+}
